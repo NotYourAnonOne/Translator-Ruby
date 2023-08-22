@@ -15,7 +15,7 @@ To use this script, make sure you have Ruby installed on your machine.
 To run the script, execute the following command in your terminal:
 
 ```
-ruby translate_text.rb
+ruby Translator.rb
 ```
 
 You will see the translated text printed in the terminal.
